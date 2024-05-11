@@ -1,3 +1,3 @@
 #demo
 
-code description..
+code description
